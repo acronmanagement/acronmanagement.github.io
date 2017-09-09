@@ -1,0 +1,426 @@
+{
+  
+    "template-overviews-bare": {
+      "title": "Bare",
+      "url": " /template-overviews/bare/",
+      "description": "An unstlyed starter template for Bootstrap 4 with predefined file paths for easy development."
+    }
+    ,
+  
+    "template-overviews-blog-home": {
+      "title": "Blog Home",
+      "url": " /template-overviews/blog-home/",
+      "description": "A simple, unstyled, blog homepage starter template for creating Bootstrap 4 blog websites."
+    }
+    ,
+  
+    "template-overviews-blog-post": {
+      "title": "Blog Post",
+      "url": " /template-overviews/blog-post/",
+      "description": "A simple, unstyled, blog post starter template for creating Bootstrap 4 blog posts."
+    }
+    ,
+  
+    "template-overviews-business-frontpage": {
+      "title": "Business Frontpage",
+      "url": " /template-overviews/business-frontpage/",
+      "description": "A business home page starter template for Bootstrap 4 featuring marketing boxes and a full width image header."
+    }
+    ,
+  
+    "template-overviews-full-slider": {
+      "title": "Full Slider",
+      "url": " /template-overviews/full-slider/",
+      "description": "A full page background image slider for Bootstrap 4 using the built-in Bootstrap carousel plugin."
+    }
+    ,
+  
+    "template-overviews-full": {
+      "title": "Full",
+      "url": " /template-overviews/full/",
+      "description": "An easy to use, full page image background template for Bootstrap 4 websites."
+    }
+    ,
+  
+    "template-overviews-half-slider": {
+      "title": "Half Slider",
+      "url": " /template-overviews/half-slider/",
+      "description": "A half page background image slider for Bootstrap 4 using the built-in Bootstrap carousel plugin."
+    }
+    ,
+  
+    "template-overviews-heroic-features": {
+      "title": "Heroic Features",
+      "url": " /template-overviews/heroic-features/",
+      "description": "A Bootstrap home page template featuring a hero unit and a grid of thumbnail features."
+    }
+    ,
+  
+    "template-overviews-logo-nav": {
+      "title": "Logo Nav",
+      "url": " /template-overviews/logo-nav/",
+      "description": "A Bootstrap navigation template featuring an image logo in place of the navbar header text."
+    }
+    ,
+  
+    "template-overviews-one-page-wonder": {
+      "title": "One Page Wonder",
+      "url": " /template-overviews/one-page-wonder/",
+      "description": "A simple, one page website template for quickly building one page websites using Bootstrap 4."
+    }
+    ,
+  
+    "template-overviews-round-about": {
+      "title": "Round About",
+      "url": " /template-overviews/round-about/",
+      "description": "A simple about page template for Bootstrap 4 featuring an easy to use image grid with rounded images."
+    }
+    ,
+  
+    "template-overviews-small-business": {
+      "title": "Small Business",
+      "url": " /template-overviews/small-business/",
+      "description": "A free, easy to use, Bootstrap starter template perfect for building small business marketing websites."
+    }
+    ,
+  
+    "template-overviews-the-big-picture": {
+      "title": "The Big Picture",
+      "url": " /template-overviews/the-big-picture/",
+      "description": "An artistic, full page image background Bootstrap template with a fixed bottom navigation bar."
+    }
+    ,
+  
+    "template-overviews-thumbnail-gallery": {
+      "title": "Thumbnail Gallery",
+      "url": " /template-overviews/thumbnail-gallery/",
+      "description": "A thumbnail grid perfect for creating photo galleries quickly and easily with Bootstrap 4."
+    }
+    ,
+  
+    "template-overviews-full-width-pics": {
+      "title": "Full Width Pics",
+      "url": " /template-overviews/full-width-pics/",
+      "description": "A Bootstrap 4 website template featuring content sections with full page width image backgrounds."
+    }
+    ,
+  
+    "template-overviews-1-col-portfolio": {
+      "title": "1 Col Portfolio",
+      "url": " /template-overviews/1-col-portfolio/",
+      "description": "An unstyled, single column, portfolio page template perfect for showcasing a group of detailed projects."
+    }
+    ,
+  
+    "template-overviews-2-col-portfolio": {
+      "title": "2 Col Portfolio",
+      "url": " /template-overviews/2-col-portfolio/",
+      "description": "A basic, two column, portfolio page template perfect for showcasing a group of projects with some details."
+    }
+    ,
+  
+    "template-overviews-3-col-portfolio": {
+      "title": "3 Col Portfolio",
+      "url": " /template-overviews/3-col-portfolio/",
+      "description": "A simple, three column, portfolio page template perfect for showcasing a larger group of projects."
+    }
+    ,
+  
+    "template-overviews-4-col-portfolio": {
+      "title": "4 Col Portfolio",
+      "url": " /template-overviews/4-col-portfolio/",
+      "description": "An unstlyed, four column, portfolio page grid perfect for showcasing a large group of projects or works."
+    }
+    ,
+  
+    "template-overviews-modern-business": {
+      "title": "Modern Business",
+      "url": " /template-overviews/modern-business/",
+      "description": "A full website template framework for building Bootstrap 4 websites with 17 pages and a working contact form."
+    }
+    ,
+  
+    "template-overviews-simple-sidebar": {
+      "title": "Simple Sidebar",
+      "url": " /template-overviews/simple-sidebar/",
+      "description": "A simple sidebar template for Bootstrap 4 featuring responsive off-canvas navigation at small screen sizes."
+    }
+    ,
+  
+    "template-overviews-stylish-portfolio": {
+      "title": "Stylish Portfolio",
+      "url": " /template-overviews/stylish-portfolio/",
+      "description": "A stylish, one page, Bootstrap portfolio theme featuring off canvas navigation and smooth page scrolling."
+    }
+    ,
+  
+    "template-overviews-portfolio-item": {
+      "title": "Portfolio Item",
+      "url": " /template-overviews/portfolio-item/",
+      "description": "An unstlyed, portfolio item template perfect for showcasing a project or work."
+    }
+    ,
+  
+    "template-overviews-sb-admin": {
+      "title": "SB Admin",
+      "url": " /template-overviews/sb-admin/",
+      "description": "A Bootstrap 4 admin theme with powerful jQuery plugins to extend the functionality of the Bootstrap framework."
+    }
+    ,
+  
+    "template-overviews-business-casual": {
+      "title": "Business Casual",
+      "url": " /template-overviews/business-casual/",
+      "description": "A Bootstrap 4 website template featuring full page background images and other easy to use Bootstrap elements."
+    }
+    ,
+  
+    "template-overviews-shop-homepage": {
+      "title": "Shop Homepage",
+      "url": " /template-overviews/shop-homepage/",
+      "description": "A simple, unstyled, shop home page template featuring Bootstrap snippets from Bootsnipp."
+    }
+    ,
+  
+    "template-overviews-shop-item": {
+      "title": "Shop Item",
+      "url": " /template-overviews/shop-item/",
+      "description": "A simple, unstyled, shop item page template featuring Bootstrap snippets from Bootsnipp."
+    }
+    ,
+  
+    "template-overviews-landing-page": {
+      "title": "Landing Page",
+      "url": " /template-overviews/landing-page/",
+      "description": "A simple, elegant, and beautifully responsive landing page theme for Bootstrap 4 websites."
+    }
+    ,
+  
+    "template-overviews-sb-admin-2": {
+      "title": "SB Admin 2",
+      "url": " /template-overviews/sb-admin-2/",
+      "description": "A Bootstrap admin theme, dashboard, or web app UI featuring powerful jQuery plugins for extended functionality."
+    }
+    ,
+  
+    "template-overviews-grayscale": {
+      "title": "Grayscale",
+      "url": " /template-overviews/grayscale/",
+      "description": "A free, multipurpose, one page Bootstrap theme featuring a dark color scheme and smooth scrolling animations."
+    }
+    ,
+  
+    "template-overviews-scrolling-nav": {
+      "title": "Scrolling Nav",
+      "url": " /template-overviews/scrolling-nav/",
+      "description": "A basic, unstyled Bootstrap page layout for creating smooth scrolling, one page websites."
+    }
+    ,
+  
+    "template-overviews-freelancer": {
+      "title": "Freelancer",
+      "url": " /template-overviews/freelancer/",
+      "description": "A one page Bootstrap portfolio theme for freelancers featuring a custom portfolio grid."
+    }
+    ,
+  
+    "template-overviews-agency": {
+      "title": "Agency",
+      "url": " /template-overviews/agency/",
+      "description": "A clean, stylish, one page Bootstrap portfolio theme perfect for your agency or small business."
+    }
+    ,
+  
+    "template-overviews-clean-blog": {
+      "title": "Clean Blog",
+      "url": " /template-overviews/clean-blog/",
+      "description": "A clean, Bootstrap blog theme ready to hook into your favorite CMS or blogging platform."
+    }
+    ,
+  
+    "template-overviews-creative": {
+      "title": "Creative",
+      "url": " /template-overviews/creative/",
+      "description": "A one page Bootstrap theme with flexible options for creative portfolios and businesses."
+    }
+    ,
+  
+    "template-overviews-new-age": {
+      "title": "New Age",
+      "url": " /template-overviews/new-age/",
+      "description": "A bold and colorful Bootstrap landing page theme for web apps or other business use."
+    }
+    ,
+  
+  
+    "news-2016-08-10-three-years-of-start-bootstrap": {
+      "title": "Looking Ahead: Three Years of Start Bootstrap!",
+      "url": " /news/2016/08/10/three-years-of-start-bootstrap/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "Start Bootstrap has a new design, and will be offering new themes, code tutorials, and design guides in the coming months!"
+    }
+    ,
+  
+    "news-2016-02-06-start-bootstrap-moves-to-mit-licensing": {
+      "title": "Start Bootstrap Moves to MIT Licensing",
+      "url": " /news/2016/02/06/start-bootstrap-moves-to-mit-licensing/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "All of the free templates and themes on Start Bootstrap are now licensed under the MIT license..."
+    }
+    ,
+  
+    "news-2014-10-29-start-bootstrap-templates-now-have-own-repo": {
+      "title": "Start Bootstrap Templates Now Have Their Own Repos",
+      "url": " /news/2014/10/29/start-bootstrap-templates-now-have-own-repo/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "By popular demand I have finally pulled all of the templates on Start Bootstrap into their own personal GitHub repository..."
+    }
+    ,
+  
+    "news-2014-08-25-one-year-of-start-bootstrap": {
+      "title": "One Year of Start Bootstrap!",
+      "url": " /news/2014/08/25/one-year-of-start-bootstrap/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "ello Start Bootstrap users! It’s been a whole year since Start Bootstrap has launched..."
+    }
+    ,
+  
+    "news-2014-01-14-new-theme-sb-admin-2": {
+      "title": "New Theme - SB Admin 2",
+      "url": " /news/2014/01/14/new-theme-sb-admin-2/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "The original ‘SB Admin’ has gotten a lot of attention..."
+    }
+    ,
+  
+    "news-2013-10-24-new-theme-clean-blog": {
+      "title": "New Theme - Clean Blog",
+      "url": " /news/2013/10/24/new-theme-clean-blog/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "A new theme is up on Start Bootstrap!"
+    }
+    ,
+  
+    "news-2013-10-24-new-theme-landing-page-premium-flex-admin-theme-launched": {
+      "title": "New Theme - Landing Page and Premium Flex Admin Theme Launched!",
+      "url": " /news/2013/10/24/new-theme-landing-page-premium-flex-admin-theme-launched/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "First off, we would like to introduce you to the newest template..."
+    }
+    ,
+  
+    "news-2013-10-24-new-ecommerce-templates": {
+      "title": "New eCommerce Templates",
+      "url": " /news/2013/10/24/new-ecommerce-templates/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "We’ve launched two new online store templates as our newest additions..."
+    }
+    ,
+  
+    "news-2013-10-24-new-template-sb-admin": {
+      "title": "New Template - SB Admin",
+      "url": " /news/2013/10/24/new-template-sb-admin/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "It’s here! SB Admin has officially launched..."
+    }
+    ,
+  
+    "news-2013-10-15-new-theme-business-casual": {
+      "title": "New Theme - Business Casual",
+      "url": " /news/2013/10/15/new-theme-business-casual/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "Please welcome the newest addition to the Start Bootstrap library..."
+    }
+    ,
+  
+    "news-2013-10-13-three-new-portfolio-templates": {
+      "title": "Three New Portfolio Templates",
+      "url": " /news/2013/10/13/three-new-portfolio-templates/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "We’ve fulfilled a promise we made a while back..."
+    }
+    ,
+  
+    "news-2013-10-02-new-theme-stylish-portfolio": {
+      "title": "New Theme - Stylish Portfolio",
+      "url": " /news/2013/10/02/new-theme-stylish-portfolio/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "We’ve just launched a new template to add to the Start Bootstrap mix..."
+    }
+    ,
+  
+    "news-2013-09-26-new-template-modern-business": {
+      "title": "New Template - Modern Business",
+      "url": " /news/2013/09/26/new-template-modern-business/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "I’ve finally gotten around to adding a full website template to the mix..."
+    }
+    ,
+  
+    "news-2013-09-22-structural-updates": {
+      "title": "Structural Updates",
+      "url": " /news/2013/09/22/structural-updates/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "As we stated in our last post, we have started rolling out some major structural changes..."
+    }
+    ,
+  
+    "news-2013-09-17-big-plans-for-start-bootstrap": {
+      "title": "Big Plans for Start Bootstrap",
+      "url": " /news/2013/09/17/big-plans-for-start-bootstrap/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "Well it’s been over a month since Start Bootstrap was founded..."
+    }
+    ,
+  
+    "news-2013-09-06-two-new-templates-small-business-half-slider": {
+      "title": "Two New Templates - Small Business and Half Slider",
+      "url": " /news/2013/09/06/two-new-templates-small-business-half-slider/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "Hi Start Bootstrap users! I just added two new templates to the mix..."
+    }
+    ,
+  
+    "news-2013-09-05-introducing-start-bootstrap": {
+      "title": "Introducing Start Bootstrap!",
+      "url": " /news/2013/09/05/introducing-start-bootstrap/",
+      "author": "David Miller",
+      "category": "[&quot;News&quot;]",
+      "source": "",
+      "description": "Welcome! Thank you for visiting Start Bootstrap!"
+    }
+    
+  
+}
